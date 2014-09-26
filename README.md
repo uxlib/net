@@ -1,4 +1,4 @@
 net
 ===
 
-the cxNet
+the uxNet
